@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rutvik Kulkarni</h1>
 <h3>Motivated and skilled Android and Web Developer with 4 years of experience in software development, specializing in building and optimizing mobile and web applications. Currently pursuing a Master's degree in Computer Science at North Carolina State University to further enhance my technical expertise and contribute to innovative projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik2598&label=Profile%20views&color=0e75b6&style=flat" alt="rutvik2598" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutvik2598" alt="rutvik2598" /></a> </p>
 
 - 📫 How to reach me **rvkulkar@ncsu.edu | kulkarnirutvikvishwas@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1e7ZkqWEw2a9Pc4eBC_MQcFq6YO0fptetwN9_4hg6Yyg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
